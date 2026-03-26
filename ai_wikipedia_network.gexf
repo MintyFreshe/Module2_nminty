@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-03-26">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="pagerank" type="double" />
+      <attribute id="1" title="is_seed" type="boolean" />
+    </attributes>
+    <nodes>
+      <node id="Artificial intelligence" label="Artificial intelligence">
+        <attvalues>
+          <attvalue for="0" value="0.11487249269376022" />
+          <attvalue for="1" value="true" />
+        </attvalues>
+      </node>
+      <node id="15.ai" label="15.ai">
+        <attvalues>
+          <attvalue for="0" value="0.04176203230459089" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="2001: A Space Odyssey" label="2001: A Space Odyssey">
+        <attvalues>
+          <attvalue for="0" value="0.04019111168931484" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="2001: A Space Odyssey (novel)" label="2001: A Space Odyssey (novel)">
+        <attvalues>
+          <attvalue for="0" value="0.020071346487513027" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="2024 Indian general election" label="2024 Indian general election">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="3D optical data storage" label="3D optical data storage">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="A* search algorithm" label="A* search algorithm">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="A.I. Artificial Intelligence" label="A.I. Artificial Intelligence">
+        <attvalues>
+          <attvalue for="0" value="0.020071346487513027" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AAAI" label="AAAI">
+        <attvalues>
+          <attvalue for="0" value="0.012374491430406233" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="ABB" label="ABB">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="ACM Computing Classification System" label="ACM Computing Classification System">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="ACM Conference on Fairness, Accountability, and Transparency" label="ACM Conference on Fairness, Accountability, and Transparency">
+        <attvalues>
+          <attvalue for="0" value="0.019373034090629092" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="ACM SIGEVO" label="ACM SIGEVO">
+        <attvalues>
+          <attvalue for="0" value="0.025150959043221614" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="ACM SIGPLAN Notices" label="ACM SIGPLAN Notices">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI-assisted software development" label="AI-assisted software development">
+        <attvalues>
+          <attvalue for="0" value="0.03116000697016682" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI (disambiguation)" label="AI (disambiguation)">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI Futures Project" label="AI Futures Project">
+        <attvalues>
+          <attvalue for="0" value="0.021931588931024253" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI Mode" label="AI Mode">
+        <attvalues>
+          <attvalue for="0" value="0.019373034090629092" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI Overviews" label="AI Overviews">
+        <attvalues>
+          <attvalue for="0" value="0.025150959043221614" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI Safety Institute (United Kingdom)" label="AI Safety Institute (United Kingdom)">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI Safety Summit 2023" label="AI Safety Summit 2023">
+        <attvalues>
+          <attvalue for="0" value="0.01652292738320439" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI Seoul Summit 2024" label="AI Seoul Summit 2024">
+        <attvalues>
+          <attvalue for="0" value="0.01652292738320439" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI Winter" label="AI Winter">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI aftermath scenarios" label="AI aftermath scenarios">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI agent" label="AI agent">
+        <attvalues>
+          <attvalue for="0" value="0.04176203230459089" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI alignment" label="AI alignment">
+        <attvalues>
+          <attvalue for="0" value="0.05459800072988403" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI anthropomorphism" label="AI anthropomorphism">
+        <attvalues>
+          <attvalue for="0" value="0.041762032304590885" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI art" label="AI art">
+        <attvalues>
+          <attvalue for="0" value="0.008683852497063292" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI boom" label="AI boom">
+        <attvalues>
+          <attvalue for="0" value="0.05018446853552125" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI bubble" label="AI bubble">
+        <attvalues>
+          <attvalue for="0" value="0.042746749721152666" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI capability control" label="AI capability control">
+        <attvalues>
+          <attvalue for="0" value="0.021931588931024253" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI data center" label="AI data center">
+        <attvalues>
+          <attvalue for="0" value="0.042491231318807964" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI effect" label="AI effect">
+        <attvalues>
+          <attvalue for="0" value="0.041762032304590885" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI literacy" label="AI literacy">
+        <attvalues>
+          <attvalue for="0" value="0.04151240004948569" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI nationalism" label="AI nationalism">
+        <attvalues>
+          <attvalue for="0" value="0.041762032304590885" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+      <node id="AI safety" label="AI safety">
+        <attvalues>
+          <attvalue for="0" value="0.05943679599966474" />
+          <attvalue for="1" value="false" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Artificial intelligence" target="15.ai" id="0" />
+      <edge source="Artificial intelligence" target="2001: A Space Odyssey" id="1" />
+      <edge source="Artificial intelligence" target="2001: A Space Odyssey (novel)" id="2" />
+      <edge source="Artificial intelligence" target="2024 Indian general election" id="3" />
+      <edge source="Artificial intelligence" target="3D optical data storage" id="4" />
+      <edge source="Artificial intelligence" target="A* search algorithm" id="5" />
+      <edge source="Artificial intelligence" target="A.I. Artificial Intelligence" id="6" />
+      <edge source="Artificial intelligence" target="AAAI" id="7" />
+      <edge source="Artificial intelligence" target="ABB" id="8" />
+      <edge source="Artificial intelligence" target="ACM Computing Classification System" id="9" />
+      <edge source="Artificial intelligence" target="ACM Conference on Fairness, Accountability, and Transparency" id="10" />
+      <edge source="Artificial intelligence" target="ACM SIGEVO" id="11" />
+      <edge source="Artificial intelligence" target="ACM SIGPLAN Notices" id="12" />
+      <edge source="Artificial intelligence" target="AI-assisted software development" id="13" />
+      <edge source="Artificial intelligence" target="AI (disambiguation)" id="14" />
+      <edge source="Artificial intelligence" target="AI Futures Project" id="15" />
+      <edge source="Artificial intelligence" target="AI Mode" id="16" />
+      <edge source="Artificial intelligence" target="AI Overviews" id="17" />
+      <edge source="Artificial intelligence" target="AI Safety Institute (United Kingdom)" id="18" />
+      <edge source="Artificial intelligence" target="AI Safety Summit 2023" id="19" />
+      <edge source="Artificial intelligence" target="AI Seoul Summit 2024" id="20" />
+      <edge source="Artificial intelligence" target="AI Winter" id="21" />
+      <edge source="Artificial intelligence" target="AI aftermath scenarios" id="22" />
+      <edge source="Artificial intelligence" target="AI agent" id="23" />
+      <edge source="Artificial intelligence" target="AI alignment" id="24" />
+      <edge source="Artificial intelligence" target="AI anthropomorphism" id="25" />
+      <edge source="Artificial intelligence" target="AI art" id="26" />
+      <edge source="Artificial intelligence" target="AI boom" id="27" />
+      <edge source="Artificial intelligence" target="AI bubble" id="28" />
+      <edge source="Artificial intelligence" target="AI capability control" id="29" />
+      <edge source="Artificial intelligence" target="AI data center" id="30" />
+      <edge source="Artificial intelligence" target="AI effect" id="31" />
+      <edge source="Artificial intelligence" target="AI literacy" id="32" />
+      <edge source="Artificial intelligence" target="AI nationalism" id="33" />
+      <edge source="Artificial intelligence" target="AI safety" id="34" />
+      <edge source="15.ai" target="2001: A Space Odyssey" id="35" />
+      <edge source="15.ai" target="AI agent" id="36" />
+      <edge source="15.ai" target="AI alignment" id="37" />
+      <edge source="15.ai" target="AI anthropomorphism" id="38" />
+      <edge source="15.ai" target="AI boom" id="39" />
+      <edge source="15.ai" target="AI bubble" id="40" />
+      <edge source="15.ai" target="AI data center" id="41" />
+      <edge source="15.ai" target="AI effect" id="42" />
+      <edge source="15.ai" target="AI literacy" id="43" />
+      <edge source="15.ai" target="AI nationalism" id="44" />
+      <edge source="15.ai" target="AI safety" id="45" />
+      <edge source="15.ai" target="Artificial intelligence" id="46" />
+      <edge source="2001: A Space Odyssey" target="2001: A Space Odyssey (novel)" id="47" />
+      <edge source="2001: A Space Odyssey" target="A.I. Artificial Intelligence" id="48" />
+      <edge source="2001: A Space Odyssey" target="Artificial intelligence" id="49" />
+      <edge source="2001: A Space Odyssey (novel)" target="2001: A Space Odyssey" id="50" />
+      <edge source="2001: A Space Odyssey (novel)" target="Artificial intelligence" id="51" />
+      <edge source="3D optical data storage" target="Artificial intelligence" id="52" />
+      <edge source="A.I. Artificial Intelligence" target="2001: A Space Odyssey" id="53" />
+      <edge source="ACM Computing Classification System" target="Artificial intelligence" id="54" />
+      <edge source="ACM Conference on Fairness, Accountability, and Transparency" target="ACM SIGEVO" id="55" />
+      <edge source="ACM SIGEVO" target="ACM Conference on Fairness, Accountability, and Transparency" id="56" />
+      <edge source="ACM SIGEVO" target="Artificial intelligence" id="57" />
+      <edge source="AI-assisted software development" target="15.ai" id="58" />
+      <edge source="AI-assisted software development" target="AI agent" id="59" />
+      <edge source="AI-assisted software development" target="AI alignment" id="60" />
+      <edge source="AI-assisted software development" target="AI anthropomorphism" id="61" />
+      <edge source="AI-assisted software development" target="AI boom" id="62" />
+      <edge source="AI-assisted software development" target="AI bubble" id="63" />
+      <edge source="AI-assisted software development" target="AI data center" id="64" />
+      <edge source="AI-assisted software development" target="AI effect" id="65" />
+      <edge source="AI-assisted software development" target="AI literacy" id="66" />
+      <edge source="AI-assisted software development" target="AI nationalism" id="67" />
+      <edge source="AI-assisted software development" target="AI safety" id="68" />
+      <edge source="AI-assisted software development" target="Artificial intelligence" id="69" />
+      <edge source="AI Futures Project" target="AI alignment" id="70" />
+      <edge source="AI Futures Project" target="AI boom" id="71" />
+      <edge source="AI Futures Project" target="AI capability control" id="72" />
+      <edge source="AI Futures Project" target="AI safety" id="73" />
+      <edge source="AI Futures Project" target="Artificial intelligence" id="74" />
+      <edge source="AI Mode" target="AI Overviews" id="75" />
+      <edge source="AI Overviews" target="AI Mode" id="76" />
+      <edge source="AI Overviews" target="Artificial intelligence" id="77" />
+      <edge source="AI Safety Summit 2023" target="AI Seoul Summit 2024" id="78" />
+      <edge source="AI Safety Summit 2023" target="AI alignment" id="79" />
+      <edge source="AI Safety Summit 2023" target="AI safety" id="80" />
+      <edge source="AI Seoul Summit 2024" target="AI Safety Summit 2023" id="81" />
+      <edge source="AI Seoul Summit 2024" target="AI safety" id="82" />
+      <edge source="AI Seoul Summit 2024" target="Artificial intelligence" id="83" />
+      <edge source="AI aftermath scenarios" target="AAAI" id="84" />
+      <edge source="AI aftermath scenarios" target="Artificial intelligence" id="85" />
+      <edge source="AI agent" target="15.ai" id="86" />
+      <edge source="AI agent" target="AI-assisted software development" id="87" />
+      <edge source="AI agent" target="AI alignment" id="88" />
+      <edge source="AI agent" target="AI anthropomorphism" id="89" />
+      <edge source="AI agent" target="AI boom" id="90" />
+      <edge source="AI agent" target="AI bubble" id="91" />
+      <edge source="AI agent" target="AI data center" id="92" />
+      <edge source="AI agent" target="AI effect" id="93" />
+      <edge source="AI agent" target="AI literacy" id="94" />
+      <edge source="AI agent" target="AI nationalism" id="95" />
+      <edge source="AI agent" target="AI safety" id="96" />
+      <edge source="AI agent" target="Artificial intelligence" id="97" />
+      <edge source="AI alignment" target="15.ai" id="98" />
+      <edge source="AI alignment" target="AI-assisted software development" id="99" />
+      <edge source="AI alignment" target="AI Futures Project" id="100" />
+      <edge source="AI alignment" target="AI agent" id="101" />
+      <edge source="AI alignment" target="AI anthropomorphism" id="102" />
+      <edge source="AI alignment" target="AI boom" id="103" />
+      <edge source="AI alignment" target="AI bubble" id="104" />
+      <edge source="AI alignment" target="AI capability control" id="105" />
+      <edge source="AI alignment" target="AI data center" id="106" />
+      <edge source="AI alignment" target="AI effect" id="107" />
+      <edge source="AI alignment" target="AI literacy" id="108" />
+      <edge source="AI alignment" target="AI nationalism" id="109" />
+      <edge source="AI alignment" target="AI safety" id="110" />
+      <edge source="AI alignment" target="Artificial intelligence" id="111" />
+      <edge source="AI anthropomorphism" target="15.ai" id="112" />
+      <edge source="AI anthropomorphism" target="2001: A Space Odyssey" id="113" />
+      <edge source="AI anthropomorphism" target="AI agent" id="114" />
+      <edge source="AI anthropomorphism" target="AI alignment" id="115" />
+      <edge source="AI anthropomorphism" target="AI boom" id="116" />
+      <edge source="AI anthropomorphism" target="AI bubble" id="117" />
+      <edge source="AI anthropomorphism" target="AI data center" id="118" />
+      <edge source="AI anthropomorphism" target="AI effect" id="119" />
+      <edge source="AI anthropomorphism" target="AI literacy" id="120" />
+      <edge source="AI anthropomorphism" target="AI nationalism" id="121" />
+      <edge source="AI anthropomorphism" target="AI safety" id="122" />
+      <edge source="AI anthropomorphism" target="Artificial intelligence" id="123" />
+      <edge source="AI art" target="AI-assisted software development" id="124" />
+      <edge source="AI art" target="AI alignment" id="125" />
+      <edge source="AI art" target="AI boom" id="126" />
+      <edge source="AI art" target="AI bubble" id="127" />
+      <edge source="AI art" target="AI data center" id="128" />
+      <edge source="AI art" target="AI safety" id="129" />
+      <edge source="AI art" target="Artificial intelligence" id="130" />
+      <edge source="AI boom" target="15.ai" id="131" />
+      <edge source="AI boom" target="AI-assisted software development" id="132" />
+      <edge source="AI boom" target="AI Futures Project" id="133" />
+      <edge source="AI boom" target="AI agent" id="134" />
+      <edge source="AI boom" target="AI alignment" id="135" />
+      <edge source="AI boom" target="AI anthropomorphism" id="136" />
+      <edge source="AI boom" target="AI bubble" id="137" />
+      <edge source="AI boom" target="AI capability control" id="138" />
+      <edge source="AI boom" target="AI data center" id="139" />
+      <edge source="AI boom" target="AI effect" id="140" />
+      <edge source="AI boom" target="AI literacy" id="141" />
+      <edge source="AI boom" target="AI nationalism" id="142" />
+      <edge source="AI boom" target="AI safety" id="143" />
+      <edge source="AI boom" target="Artificial intelligence" id="144" />
+      <edge source="AI bubble" target="15.ai" id="145" />
+      <edge source="AI bubble" target="AI-assisted software development" id="146" />
+      <edge source="AI bubble" target="AI agent" id="147" />
+      <edge source="AI bubble" target="AI alignment" id="148" />
+      <edge source="AI bubble" target="AI anthropomorphism" id="149" />
+      <edge source="AI bubble" target="AI boom" id="150" />
+      <edge source="AI bubble" target="AI data center" id="151" />
+      <edge source="AI bubble" target="AI effect" id="152" />
+      <edge source="AI bubble" target="AI literacy" id="153" />
+      <edge source="AI bubble" target="AI nationalism" id="154" />
+      <edge source="AI bubble" target="AI safety" id="155" />
+      <edge source="AI bubble" target="Artificial intelligence" id="156" />
+      <edge source="AI capability control" target="AI Futures Project" id="157" />
+      <edge source="AI capability control" target="AI alignment" id="158" />
+      <edge source="AI capability control" target="AI boom" id="159" />
+      <edge source="AI capability control" target="AI safety" id="160" />
+      <edge source="AI capability control" target="Artificial intelligence" id="161" />
+      <edge source="AI data center" target="15.ai" id="162" />
+      <edge source="AI data center" target="AI agent" id="163" />
+      <edge source="AI data center" target="AI alignment" id="164" />
+      <edge source="AI data center" target="AI anthropomorphism" id="165" />
+      <edge source="AI data center" target="AI boom" id="166" />
+      <edge source="AI data center" target="AI bubble" id="167" />
+      <edge source="AI data center" target="AI effect" id="168" />
+      <edge source="AI data center" target="AI literacy" id="169" />
+      <edge source="AI data center" target="AI nationalism" id="170" />
+      <edge source="AI data center" target="AI safety" id="171" />
+      <edge source="AI data center" target="Artificial intelligence" id="172" />
+      <edge source="AI effect" target="15.ai" id="173" />
+      <edge source="AI effect" target="AI-assisted software development" id="174" />
+      <edge source="AI effect" target="AI agent" id="175" />
+      <edge source="AI effect" target="AI alignment" id="176" />
+      <edge source="AI effect" target="AI anthropomorphism" id="177" />
+      <edge source="AI effect" target="AI boom" id="178" />
+      <edge source="AI effect" target="AI bubble" id="179" />
+      <edge source="AI effect" target="AI data center" id="180" />
+      <edge source="AI effect" target="AI literacy" id="181" />
+      <edge source="AI effect" target="AI nationalism" id="182" />
+      <edge source="AI effect" target="AI safety" id="183" />
+      <edge source="AI effect" target="Artificial intelligence" id="184" />
+      <edge source="AI literacy" target="15.ai" id="185" />
+      <edge source="AI literacy" target="AI agent" id="186" />
+      <edge source="AI literacy" target="AI alignment" id="187" />
+      <edge source="AI literacy" target="AI anthropomorphism" id="188" />
+      <edge source="AI literacy" target="AI boom" id="189" />
+      <edge source="AI literacy" target="AI bubble" id="190" />
+      <edge source="AI literacy" target="AI data center" id="191" />
+      <edge source="AI literacy" target="AI effect" id="192" />
+      <edge source="AI literacy" target="AI nationalism" id="193" />
+      <edge source="AI literacy" target="AI safety" id="194" />
+      <edge source="AI literacy" target="Artificial intelligence" id="195" />
+      <edge source="AI nationalism" target="15.ai" id="196" />
+      <edge source="AI nationalism" target="AI-assisted software development" id="197" />
+      <edge source="AI nationalism" target="AI agent" id="198" />
+      <edge source="AI nationalism" target="AI alignment" id="199" />
+      <edge source="AI nationalism" target="AI anthropomorphism" id="200" />
+      <edge source="AI nationalism" target="AI boom" id="201" />
+      <edge source="AI nationalism" target="AI bubble" id="202" />
+      <edge source="AI nationalism" target="AI data center" id="203" />
+      <edge source="AI nationalism" target="AI effect" id="204" />
+      <edge source="AI nationalism" target="AI literacy" id="205" />
+      <edge source="AI nationalism" target="AI safety" id="206" />
+      <edge source="AI nationalism" target="Artificial intelligence" id="207" />
+      <edge source="AI safety" target="15.ai" id="208" />
+      <edge source="AI safety" target="AI-assisted software development" id="209" />
+      <edge source="AI safety" target="AI Futures Project" id="210" />
+      <edge source="AI safety" target="AI Safety Summit 2023" id="211" />
+      <edge source="AI safety" target="AI Seoul Summit 2024" id="212" />
+      <edge source="AI safety" target="AI agent" id="213" />
+      <edge source="AI safety" target="AI alignment" id="214" />
+      <edge source="AI safety" target="AI anthropomorphism" id="215" />
+      <edge source="AI safety" target="AI boom" id="216" />
+      <edge source="AI safety" target="AI bubble" id="217" />
+      <edge source="AI safety" target="AI capability control" id="218" />
+      <edge source="AI safety" target="AI data center" id="219" />
+      <edge source="AI safety" target="AI effect" id="220" />
+      <edge source="AI safety" target="AI literacy" id="221" />
+      <edge source="AI safety" target="AI nationalism" id="222" />
+      <edge source="AI safety" target="Artificial intelligence" id="223" />
+    </edges>
+  </graph>
+</gexf>
